@@ -1,4 +1,4 @@
-var cardGrid = document.getElementById('video-gri');
+var cardGrid = document.getElementById('video-grid');
 
 var videoArr=[
     {
